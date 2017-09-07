@@ -14,7 +14,10 @@ void setup()
 }
 void draw()
 {
-	
+	// make a heart or person or circle -- any object
+	// direct lightning strikes to object
+	// animate object color to match lightning 
+	// animate object when struck by lightning
 }
 void mousePressed()
 {
@@ -36,4 +39,3 @@ void mousePressed()
 	colorB = (int)(Math.random()*256);
 	colorC = (int)(Math.random()*256);
 }
-
